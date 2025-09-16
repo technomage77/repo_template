@@ -1,0 +1,5 @@
+# based at https://www.perplexity.ai/search/hallo-thema-github-profil-es-w-bIQgMFxKQ1OSk5HcUNIXjA#1
+# wiederverwendbare GitHub Actions Workflows
+jobs:
+  codeql-analysis:
+    uses: technomage77/.github/workflows/codeql.yml@main

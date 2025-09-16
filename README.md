@@ -1,6 +1,10 @@
 # repo_template
 
-## Workflow
+## Badges
+
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/{OWNER}/{REPO}/badge)](https://scorecard.dev/viewer/?uri=github.com/{OWNER}/{REPO})
+
+## Doku und Workflow
 
 Um von Anfang an die Best Practices mit **CodeQL** und **OpenSSF Scorecard** konsistent in GitHub-Projekten umzusetzen und diese als Template für weitere Repositories nutzbar zu machen, empfiehlt sich folgende Vorgehensweise:
 
